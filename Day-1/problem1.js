@@ -20,4 +20,4 @@ The second line is the cost of 1 kg of oranges and 1 kg of apples.
                 let totalExpense = priceOrange + priceApple;
 
             let shopkeeperReaturns = harrysMomgive - totalExpense;
-            console.log(shopkeeperReaturns);// shopkeeperReaturns: 300   
+            console.log(shopkeeperReaturns);// shopkeeperReaturns: 0   
