@@ -19,5 +19,4 @@
         let johnSaidSecond = "an awesome web developer";
 
         let johnSaid = johnSaidfirst +' '+johnSaidSecond
-        console.log(johnSaid);
-        
+        console.log(johnSaid); //I am going to be an awesome web developer
